@@ -1,0 +1,2 @@
+{"circuit": "two_qregs_mixed_ops.qasm", "status": "ERROR", "where": "cudaq", "backend": "qpp-cpu", "error": "RuntimeError('Exception in applyGate: qpp::applyCTRL(): Subsystems mismatch dimensions! [dims/ctrl/target]')"}
+{"circuit": "two_qregs_mixed_ops.qasm", "status": "ERROR", "where": "cudaq", "backend": "qpp-cpu", "error": "RuntimeError('Exception in applyGate: qpp::applyCTRL(): Subsystems mismatch dimensions! [dims/ctrl/target]')"}

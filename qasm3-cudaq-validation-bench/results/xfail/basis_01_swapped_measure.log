@@ -1,0 +1,95 @@
+[2025-12-17 15:34:59.973] [info] [LinkedLibraryHolder.cpp:176] Init infrastructure for pythonic builder.
+[2025-12-17 15:34:59.979] [info] [LinkedLibraryHolder.cpp:156] Found Target anyon with config file anyon.yml
+[2025-12-17 15:34:59.979] [info] [LinkedLibraryHolder.cpp:165] Found Target: anyon -> (sim=, platform=default)
+[2025-12-17 15:34:59.981] [info] [LinkedLibraryHolder.cpp:156] Found Target density-matrix-cpu with config file density-matrix-cpu.yml
+[2025-12-17 15:34:59.981] [info] [LinkedLibraryHolder.cpp:100] CUDA-Q Library Path is /home/dalba/cudaq311/lib/python3.11/site-packages/cudaq/mlir/_mlir_libs/../../../lib.
+[2025-12-17 15:34:59.981] [info] [LinkedLibraryHolder.cpp:105] Use dm simulator for target density-matrix-cpu
+[2025-12-17 15:34:59.981] [info] [LinkedLibraryHolder.cpp:165] Found Target: density-matrix-cpu -> (sim=dm, platform=default)
+[2025-12-17 15:34:59.981] [info] [LinkedLibraryHolder.cpp:156] Found Target fermioniq with config file fermioniq.yml
+[2025-12-17 15:34:59.981] [info] [LinkedLibraryHolder.cpp:165] Found Target: fermioniq -> (sim=, platform=default)
+[2025-12-17 15:34:59.982] [info] [LinkedLibraryHolder.cpp:156] Found Target infleqtion with config file infleqtion.yml
+[2025-12-17 15:34:59.982] [info] [LinkedLibraryHolder.cpp:165] Found Target: infleqtion -> (sim=, platform=default)
+[2025-12-17 15:34:59.982] [info] [LinkedLibraryHolder.cpp:156] Found Target ionq with config file ionq.yml
+[2025-12-17 15:34:59.982] [info] [LinkedLibraryHolder.cpp:165] Found Target: ionq -> (sim=, platform=default)
+[2025-12-17 15:34:59.983] [info] [LinkedLibraryHolder.cpp:156] Found Target iqm with config file iqm.yml
+[2025-12-17 15:34:59.983] [info] [LinkedLibraryHolder.cpp:165] Found Target: iqm -> (sim=, platform=default)
+[2025-12-17 15:34:59.983] [info] [LinkedLibraryHolder.cpp:156] Found Target nvqc with config file nvqc.yml
+[2025-12-17 15:34:59.983] [info] [LinkedLibraryHolder.cpp:165] Found Target: nvqc -> (sim=, platform=mqpu)
+[2025-12-17 15:34:59.984] [info] [LinkedLibraryHolder.cpp:156] Found Target opt-test with config file opt-test.yml
+[2025-12-17 15:34:59.985] [info] [LinkedLibraryHolder.cpp:100] CUDA-Q Library Path is /home/dalba/cudaq311/lib/python3.11/site-packages/cudaq/mlir/_mlir_libs/../../../lib.
+[2025-12-17 15:34:59.985] [info] [LinkedLibraryHolder.cpp:110] Skip cusvsim-fp32 simulator for target opt-test since it is not available
+[2025-12-17 15:34:59.985] [info] [LinkedLibraryHolder.cpp:100] CUDA-Q Library Path is /home/dalba/cudaq311/lib/python3.11/site-packages/cudaq/mlir/_mlir_libs/../../../lib.
+[2025-12-17 15:34:59.985] [info] [LinkedLibraryHolder.cpp:110] Skip custatevec-fp32 simulator for target opt-test since it is not available
+[2025-12-17 15:34:59.985] [info] [LinkedLibraryHolder.cpp:165] Found Target: opt-test -> (sim=, platform=default)
+[2025-12-17 15:34:59.985] [info] [LinkedLibraryHolder.cpp:156] Found Target oqc with config file oqc.yml
+[2025-12-17 15:34:59.985] [info] [LinkedLibraryHolder.cpp:165] Found Target: oqc -> (sim=, platform=default)
+[2025-12-17 15:34:59.985] [info] [LinkedLibraryHolder.cpp:156] Found Target orca-photonics with config file orca-photonics.yml
+[2025-12-17 15:34:59.985] [info] [LinkedLibraryHolder.cpp:165] Found Target: orca-photonics -> (sim=, platform=default)
+[2025-12-17 15:34:59.986] [info] [LinkedLibraryHolder.cpp:156] Found Target orca with config file orca.yml
+[2025-12-17 15:34:59.986] [info] [LinkedLibraryHolder.cpp:165] Found Target: orca -> (sim=, platform=mqpu)
+[2025-12-17 15:34:59.986] [info] [LinkedLibraryHolder.cpp:156] Found Target pasqal with config file pasqal.yml
+[2025-12-17 15:34:59.986] [info] [LinkedLibraryHolder.cpp:165] Found Target: pasqal -> (sim=, platform=default)
+[2025-12-17 15:34:59.986] [info] [LinkedLibraryHolder.cpp:156] Found Target qci with config file qci.yml
+[2025-12-17 15:34:59.986] [info] [LinkedLibraryHolder.cpp:165] Found Target: qci -> (sim=, platform=default)
+[2025-12-17 15:34:59.987] [info] [LinkedLibraryHolder.cpp:156] Found Target qpp-cpu with config file qpp-cpu.yml
+[2025-12-17 15:34:59.987] [info] [LinkedLibraryHolder.cpp:100] CUDA-Q Library Path is /home/dalba/cudaq311/lib/python3.11/site-packages/cudaq/mlir/_mlir_libs/../../../lib.
+[2025-12-17 15:34:59.987] [info] [LinkedLibraryHolder.cpp:105] Use qpp simulator for target qpp-cpu
+[2025-12-17 15:34:59.987] [info] [LinkedLibraryHolder.cpp:165] Found Target: qpp-cpu -> (sim=qpp, platform=default)
+[2025-12-17 15:34:59.987] [info] [LinkedLibraryHolder.cpp:156] Found Target quantinuum with config file quantinuum.yml
+[2025-12-17 15:34:59.987] [info] [LinkedLibraryHolder.cpp:165] Found Target: quantinuum -> (sim=, platform=default)
+[2025-12-17 15:34:59.988] [info] [LinkedLibraryHolder.cpp:156] Found Target quantum_machines with config file quantum_machines.yml
+[2025-12-17 15:34:59.988] [info] [LinkedLibraryHolder.cpp:165] Found Target: quantum_machines -> (sim=, platform=default)
+[2025-12-17 15:34:59.988] [info] [LinkedLibraryHolder.cpp:156] Found Target remote-mqpu with config file remote-mqpu.yml
+[2025-12-17 15:34:59.988] [info] [LinkedLibraryHolder.cpp:165] Found Target: remote-mqpu -> (sim=, platform=mqpu)
+[2025-12-17 15:34:59.988] [info] [LinkedLibraryHolder.cpp:156] Found Target stim with config file stim.yml
+[2025-12-17 15:34:59.988] [info] [LinkedLibraryHolder.cpp:100] CUDA-Q Library Path is /home/dalba/cudaq311/lib/python3.11/site-packages/cudaq/mlir/_mlir_libs/../../../lib.
+[2025-12-17 15:34:59.988] [info] [LinkedLibraryHolder.cpp:105] Use stim simulator for target stim
+[2025-12-17 15:34:59.988] [info] [LinkedLibraryHolder.cpp:165] Found Target: stim -> (sim=stim, platform=default)
+[2025-12-17 15:34:59.988] [info] [LinkedLibraryHolder.cpp:201] Init: Library Path is /home/dalba/cudaq311/lib/python3.11/site-packages/cudaq/mlir/_mlir_libs/../../../lib.
+[2025-12-17 15:34:59.991] [info] [LinkedLibraryHolder.cpp:300] Found platform plugin default.
+[2025-12-17 15:34:59.993] [info] [LinkedLibraryHolder.cpp:300] Found platform plugin mqpu.
+[2025-12-17 15:34:59.996] [info] [LinkedLibraryHolder.cpp:279] Found simulator plugin dm.
+[2025-12-17 15:35:00.002] [info] [LinkedLibraryHolder.cpp:279] Found simulator plugin qpp.
+[2025-12-17 15:35:00.008] [info] [LinkedLibraryHolder.cpp:279] Found simulator plugin stim.
+[2025-12-17 15:35:01.083] [info] [LinkedLibraryHolder.cpp:324] GPU(s) found but cannot select nvidia target because nvidia target not found.
+[2025-12-17 15:35:01.083] [info] [LinkedLibraryHolder.cpp:100] CUDA-Q Library Path is /home/dalba/cudaq311/lib/python3.11/site-packages/cudaq/mlir/_mlir_libs/../../../lib.
+[2025-12-17 15:35:01.083] [info] [LinkedLibraryHolder.cpp:105] Use qpp simulator for target qpp-cpu
+[2025-12-17 15:35:01.083] [info] [LinkedLibraryHolder.cpp:430] Setting target=qpp-cpu (sim=qpp, platform=default)
+[2025-12-17 15:35:01.083] [info] [PluginUtils.h:24] Requesting N5nvqir16CircuitSimulatorE plugin via symbol name getCircuitSimulator_qpp.
+[2025-12-17 15:35:01.083] [info] [PluginUtils.h:36] Successfully loaded the plugin.
+[2025-12-17 15:35:01.083] [info] [NVQIR.cpp:75] [runtime] Setting the circuit simulator to qpp.
+[2025-12-17 15:35:01.083] [info] [PluginUtils.h:24] Requesting N5cudaq16quantum_platformE plugin via symbol name getQuantumPlatform_default.
+[2025-12-17 15:35:01.083] [info] [PluginUtils.h:36] Successfully loaded the plugin.
+[2025-12-17 15:35:01.083] [info] [DefaultQuantumPlatform.cpp:89] Backend string is qpp-cpu
+[2025-12-17 15:35:01.083] [info] [DefaultQuantumPlatform.cpp:106] Config file path = /home/dalba/cudaq311/lib/python3.11/site-packages/cudaq/mlir/_mlir_libs/../../../targets/qpp-cpu.yml
+[2025-12-17 15:35:01.084] [info] [quantum_platform.cpp:38] external caller setting the platform.
+[2025-12-17 15:35:01.084] [info] [execution_manager.cpp:21] external caller clearing the execution manager.
+[2025-12-17 15:35:02.670] [info] [py_runtime_target.cpp:32] Register set_target callback with id 'clearKernelDecoratorModules'.
+[2025-12-17 15:35:02.902] [info] [CUDAQuantumExtension.cpp:78] Calling initialize_cudaq.
+[2025-12-17 15:35:02.906] [info] [LinkedLibraryHolder.cpp:100] CUDA-Q Library Path is /home/dalba/cudaq311/lib/python3.11/site-packages/cudaq/mlir/_mlir_libs/../../../lib.
+[2025-12-17 15:35:02.906] [info] [LinkedLibraryHolder.cpp:105] Use qpp simulator for target qpp-cpu
+[2025-12-17 15:35:02.906] [info] [LinkedLibraryHolder.cpp:430] Setting target=qpp-cpu (sim=qpp, platform=default)
+[2025-12-17 15:35:02.906] [info] [PluginUtils.h:24] Requesting N5nvqir16CircuitSimulatorE plugin via symbol name getCircuitSimulator_qpp.
+[2025-12-17 15:35:02.906] [info] [PluginUtils.h:36] Successfully loaded the plugin.
+[2025-12-17 15:35:02.906] [info] [NVQIR.cpp:75] [runtime] Setting the circuit simulator to qpp.
+[2025-12-17 15:35:02.906] [info] [PluginUtils.h:24] Requesting N5cudaq16quantum_platformE plugin via symbol name getQuantumPlatform_default.
+[2025-12-17 15:35:02.906] [info] [PluginUtils.h:36] Successfully loaded the plugin.
+[2025-12-17 15:35:02.907] [info] [DefaultQuantumPlatform.cpp:89] Backend string is qpp-cpu
+[2025-12-17 15:35:02.907] [info] [DefaultQuantumPlatform.cpp:106] Config file path = /home/dalba/cudaq311/lib/python3.11/site-packages/cudaq/mlir/_mlir_libs/../../../targets/qpp-cpu.yml
+[2025-12-17 15:35:02.907] [info] [quantum_platform.cpp:38] external caller setting the platform.
+[2025-12-17 15:35:02.907] [info] [execution_manager.cpp:21] external caller clearing the execution manager.
+[2025-12-17 15:35:02.907] [info] [py_runtime_target.cpp:46] Execute set target callback named 'clearKernelDecoratorModules'
+[2025-12-17 15:35:02.977] [info] [DefaultExecutionManager.cpp:266] [DefaultExecutionManager] Creating the qpp backend.
+[2025-12-17 15:35:02.977] [info] [CircuitSimulator.h:1242] Setting current circuit name to 
+[2025-12-17 15:35:03.118] [info] [CircuitSimulator.h:1006] Allocating 2 new qubits.
+[2025-12-17 15:35:03.118] [info] [CircuitSimulator.h:1308] (apply) x(1)
+[2025-12-17 15:35:03.118] [info] [CircuitSimulator.h:1073] Deferring qubit 0 deallocation
+[2025-12-17 15:35:03.118] [info] [CircuitSimulator.h:1073] Deferring qubit 1 deallocation
+[2025-12-17 15:35:03.118] [info] [QIRTypes.cpp:46] Cleaning up 1 allocated arrays
+[2025-12-17 15:35:03.122] [info] [CircuitSimulator.h:745] Sampling the current state, with measure qubits = [0, 1]
+[2025-12-17 15:35:03.129] [info] [CircuitSimulator.h:1227] Deallocated all qubits, reseting state vector.
+
+=== /tmp/tmp.obaoELGVYP/basis_01_swapped_measure.qasm ===
+{'circuit': 'basis_01_swapped_measure.qasm', 'backend': 'qpp-cpu', 'shots': 20000, 'qubits': 2, 'depth': 2, 'cudaq_time_sec': 0.22166942799231037, 'tvd': 1.0, 'pass': False, 'status': 'FAIL'}
+
+Wrote: results/xfail/basis_01_swapped_measure.csv and results/xfail/basis_01_swapped_measure.jsonl

@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: qcvb
+Version: 0.1.0
+Summary: OpenQASM 3 → CUDA-Q validation + backend benchmarking harness
+Requires-Python: <3.12,>=3.11
+Requires-Dist: numpy>=1.24

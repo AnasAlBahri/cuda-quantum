@@ -1,0 +1,2 @@
+{"circuit": "reset_single.qasm", "status": "ERROR", "where": "transpiler", "error": "NotImplementedError(\"Fallback does not support gate 'reset' in reset_single.qasm\")"}
+{"circuit": "reset_single.qasm", "status": "ERROR", "where": "transpiler", "error": "NotImplementedError(\"Fallback does not support gate 'reset' in reset_single.qasm\")"}

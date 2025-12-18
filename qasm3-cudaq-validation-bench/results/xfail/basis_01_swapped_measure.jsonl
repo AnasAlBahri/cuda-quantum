@@ -1,0 +1,3 @@
+{"circuit": "basis_01_swapped_measure.qasm", "backend": "qpp-cpu", "shots": 20000, "qubits": 2, "depth": 2, "cudaq_time_sec": 0.22883598100452218, "tvd": 1.0, "pass": false, "status": "FAIL"}
+{"circuit": "basis_01_swapped_measure.qasm", "backend": "qpp-cpu", "shots": 20000, "qubits": 2, "depth": 2, "cudaq_time_sec": 0.22166942799231037, "tvd": 1.0, "pass": false, "status": "FAIL"}
+{"circuit": "basis_01_swapped_measure.qasm", "backend": "qpp-cpu", "shots": 20000, "qubits": 2, "depth": 2, "cudaq_time_sec": 0.20204322499921545, "tvd": 0.0, "pass": true, "status": "PASS"}
