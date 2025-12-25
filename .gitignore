@@ -96,3 +96,10 @@ apps/
 
 # JetBrains IDE files
 .idea
+
+# --- qasm3-cudaq-validation-bench (generated artifacts) ---
+qasm3-cudaq-validation-bench/results/
+qasm3-cudaq-validation-bench/plots/
+qasm3-cudaq-validation-bench/scripts/*.bak*
+qasm3-cudaq-validation-bench/qasm3_scaling/
+qasm3-cudaq-validation-bench/qasm3_scaling_noswap/
