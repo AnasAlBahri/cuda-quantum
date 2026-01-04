@@ -9,5 +9,6 @@ mkdir -p "$OUTDIR"
 
 cp "$ROOT/results/plots/"*.png "$OUTDIR/"
 cp "$ROOT/results/benchmarks.csv" "$OUTDIR/" || true
+cp "$ROOT/results/benchmarks.jsonl" "$OUTDIR/" || true
 
 echo "Published artifacts to: $OUTDIR"
